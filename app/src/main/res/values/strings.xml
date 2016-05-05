@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="title_activity_details" translatable="false">DetailsActivity</string>
+    <string name="empty_list_forecast">No details were available</string>
+    <string name="desc_line_graph">Displaying stock value over time in line chart</string>
+    <string name="desc_list_of_stock">Displaying details of stock you have added </string>
+    <string name="fabbutton">Click on this button for adding more stocks to your list for viewing</string>
+    <string name="symbol">Symbol</string>
+    <string name="bid_price">Bid Price</string>
+    <string name="percent_change">Percentage Change</string>
+    <string name="empty_string">No details populated</string>
+</resources>
