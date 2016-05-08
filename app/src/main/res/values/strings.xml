@@ -19,4 +19,5 @@
     <string name="bid_price">Bid Price</string>
     <string name="percent_change">Percentage Change</string>
     <string name="empty_string">No details populated</string>
+    <string name="alr_saved">This stock is already saved!</string>
 </resources>
